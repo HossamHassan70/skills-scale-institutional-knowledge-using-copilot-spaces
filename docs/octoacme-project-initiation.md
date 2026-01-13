@@ -13,11 +13,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
-- Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
-- High-level timeline and key milestones
-- Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Project One-pager (Problem, Goal, Success Metrics) - PM + Product Owner
+- Stakeholder list & communication plan - Communications Lead
+- High-level timeline and key milestones - PM
+- Initial risk list - PM
+- Resource needs (team roles, rough effort estimate) - PM + Technical Lead
+- Business requirements overview - Business Analyst (if applicable)
+- Change impact assessment - Change Manager (for process/tool changes)
 
 ## Project One-pager Template
 - Project name:
@@ -30,8 +32,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] One-pager completed and reviewed by Product Owner/Product Lead
+- [ ] Business requirements validated - Business Analyst
+- [ ] Technical feasibility assessed - Technical Lead
+- [ ] Sponsor / Stakeholder alignment (email or meeting) - Communications Lead
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

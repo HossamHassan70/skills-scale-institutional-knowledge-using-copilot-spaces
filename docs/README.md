@@ -2,7 +2,7 @@
 
 ## Overview
 
-OctoAcme leverages a defined lifecycle approach for project management, covering all critical stages such as project initiation, planning, execution, tracking, risk management, release, deployment, and continuous improvement. The approach is grounded in the principles of iterative delivery, clear ownership, and data-driven decisions. Core roles include Project Managers coordinating tasks, Product Managers prioritizing value, developers implementing solutions, and QA ensuring quality. Communication strategies are structured via regular stand-ups, weekly updates, and stakeholder syncs. Quality assurance practices emphasize automated testing, risk registers, detailed acceptance criteria, and continuous retrospectives for improvement.
+OctoAcme leverages a defined lifecycle approach for project management, covering all critical stages such as project initiation, planning, execution, tracking, risk management, release, deployment, and continuous improvement. The approach is grounded in the principles of iterative delivery, clear ownership, and data-driven decisions. Core roles include Project Managers coordinating tasks, Product Managers and Product Owners prioritizing value, Technical Leads overseeing architecture, developers implementing solutions, Quality Assurance Leads ensuring quality, Business Analysts clarifying requirements, Communications Leads managing stakeholder updates, and Change Managers facilitating transitions. Communication strategies are structured via regular stand-ups, weekly updates, and stakeholder syncs. Quality assurance practices emphasize automated testing, risk registers, detailed acceptance criteria, and continuous retrospectives for improvement.
 
 ## Documentation Index
 

@@ -21,8 +21,9 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
-- Provide regular updates (weekly or milestone-based)
+- Provide regular updates (weekly or milestone-based) via Communications Lead
 - Use a single source of truth (project README or release doc) for status
+- Coordinate with Change Manager for transition-related communications
 
 ## Communication Templates
 Weekly Status Template:
@@ -38,5 +39,7 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- General project issues: Team-level -> PM -> Product Owner -> Sponsor
+- Technical blockers: Team-level -> Technical Lead -> PM -> Product Owner -> Sponsor
+- Security incidents: Follow the security incident runbook and notify Security on-call immediately
+- Communication-sensitive issues: Involve Communications Lead early and coordinate with PM
