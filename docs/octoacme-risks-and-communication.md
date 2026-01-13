@@ -39,6 +39,7 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> Technical Lead -> PM -> Product Owner -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
-- For communication-sensitive issues, involve Communications Lead early
+- General project issues: Team-level -> PM -> Product Owner -> Sponsor
+- Technical blockers: Team-level -> Technical Lead -> PM -> Product Owner -> Sponsor
+- Security incidents: Follow the security incident runbook and notify Security on-call immediately
+- Communication-sensitive issues: Involve Communications Lead early and coordinate with PM
