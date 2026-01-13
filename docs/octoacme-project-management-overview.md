@@ -16,9 +16,16 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Product Owner (PO): manages product backlog, represents customer needs, and prioritizes features.
+- Technical Lead: oversees technical architecture, mentors developers, and resolves major technical blockers.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance Lead: develops test strategies, manages defect triage, and ensures quality standards.
+- Business Analyst: clarifies business requirements, validates solutions, and bridges implementation gaps.
+- Communications Lead: manages internal/external communications and maintains clear project updates.
+- Change Manager: coordinates transitions, prepares teams for change, and measures adoption.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role definitions, responsibilities, and key collaborations, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager

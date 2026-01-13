@@ -17,11 +17,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
-- Unit tests for new logic
-- Integration tests where applicable
-- End-to-end smoke tests for critical flows before release
+- Unit tests for new logic (Developers)
+- Integration tests where applicable (Developers + Technical Lead)
+- End-to-end smoke tests for critical flows before release (Quality Assurance Lead)
 - Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Manual QA for feature acceptance when needed (Quality Assurance Lead)
+- Test coverage and quality metrics reported regularly (Quality Assurance Lead)
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -29,9 +30,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 1: Team-level triage in daily standup (Developers, Technical Lead, QA Lead)
+- Level 2: PM escalates to Product Owner/Product Lead and dependent teams
+- Level 3: Sponsor-level escalation for business-impacting issues (PM + Communications Lead)
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
